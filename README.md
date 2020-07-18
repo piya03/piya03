@@ -1,5 +1,5 @@
 
-<p align="center"><img src="banner.png"  align="center"></p>
+<img src="banner.png"  align="center">
 
 
 - ❤️  Love beautiful design and creative coding. Check my work at [Codepen](https://codepen.io/piya50) and 
