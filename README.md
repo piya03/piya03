@@ -1,5 +1,5 @@
 
-<img src="banner.png"  align="center">
+![](https://github.com/piya03/piya03/blob/master/banner.png)
 
 
 - ❤️  Love beautiful design and creative coding. Check my work at [Codepen](https://codepen.io/piya50) and 
