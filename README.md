@@ -1,8 +1,8 @@
 
 
-<!--
-**piya03/piya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-❤️  Love beautiful design and creative coding.
-🔭 I’m currently working on Reactjs(gatsbyjs framework), a lot of tailwind css.
-🌱 I’m currently learning Javascript adavnced concepts, reactjs and more.
+
+- ❤️  Love beautiful design and creative coding. Check my work at [https://codepen.io/piya50](https://codepen.io/piya50)
+  [Glitch profile](https://glitch.com/@piya03)
+- 🔭 I’m currently working on Reactjs(gatsbyjs framework), a lot of tailwind css.
+- 🌱 I’m currently learning Javascript adavnced concepts, reactjs and more.
