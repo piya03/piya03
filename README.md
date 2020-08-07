@@ -1,9 +1,10 @@
 
 ![](https://github.com/piya03/piya03/blob/master/banner.png)
 
+https://sourcerer.io/piya03
+
 [![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=piya03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[Complete profile](https://sourcerer.io/piya03)
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piya03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
