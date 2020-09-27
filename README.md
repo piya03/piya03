@@ -22,4 +22,6 @@ https://medium.com/@piyachaudhary50
 - 🌱 **I’m currently learning new Javascript concepts, Reactjs and more.**
 
 
+## Resume link
 
+[My Resume](https://docs.google.com/document/d/1dDCHMIt4zRbzI0zlozBQ9iQarGZ3Ha-JYKlpS6br0sI/edit?usp=sharing)
