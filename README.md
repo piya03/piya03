@@ -28,6 +28,8 @@ Few of my interesting projects:
 
 [https://marriage-card.glitch.me/](https://marriage-card.glitch.me/)
 
+[https://scenery-art-html-css.glitch.me/](https://scenery-art-html-css.glitch.me/)
+
 - 🔭 **I’m currently working on Reactjs(gatsbyjs framework) and a lot of tailwind css.**
 
 - 🌱 **I’m currently learning new Javascript concepts, Reactjs and more.**
