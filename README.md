@@ -18,7 +18,7 @@ https://medium.com/@piyachaudhary50
   
 Few of my interesting projects:
 
-[https://youthful-fermat-1d00cf.netlify.app/](2048 Game)
+[2048 Game](https://youthful-fermat-1d00cf.netlify.app/)
 
 [https://boring-bohr-9a489d.netlify.app/](https://boring-bohr-9a489d.netlify.app/)
 
